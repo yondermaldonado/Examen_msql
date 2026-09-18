@@ -27,7 +27,7 @@ En este proyecto estamos creando la base de datos de un hospital donde se maneja
 
 ## CARPETAS
 
--- consultas
--- diagrama_entidades_y_logico
--- diagrama_fisico
--- README.md
+consultas
+diagrama_entidades_y_logico
+diagrama_fisico
+README.md
