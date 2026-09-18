@@ -11,7 +11,7 @@ En este proyecto estamos creando la base de datos de un hospital donde se maneja
 
 ## DIAGRAMA LOGICO
 
-![texto_iamgen](/diagrama_endidades_y_logico/diagrama_logico.png)
+![texto_iamgen](/diagrama_endidades_y_logico/diagrama_logico_con_tipo_de_datos.png)
 
 ## CONSULTAS
 
